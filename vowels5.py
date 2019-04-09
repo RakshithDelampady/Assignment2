@@ -1,4 +1,5 @@
 vowels = ['a','e','i','o','u']
+#Take the word given by the user to search for vowels
 word = input('Provide a word tp search for vowels: ')
 found ={}
 
